@@ -18,6 +18,7 @@ class GmallPmsApplicationTests {
 	@Autowired
 	ProductService productService;
 
+
 	@Autowired
 	BrandService brandService;
 
