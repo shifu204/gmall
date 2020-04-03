@@ -15,7 +15,6 @@
             <maxHistory>30</maxHistory>
         </rollingPolicy>
         <encoder>
-
             <pattern>${FILE_LOG_PATTERN}</pattern>
         </encoder>
     </appender>
